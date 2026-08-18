@@ -22,6 +22,7 @@ int main() {
     printf("Nota: %.2f\n", nota);
 
     printf("Cadastro realizado com sucesso!\n");
-    
+    printf("Obrigado por utilizar o sistema!\n");
+
     return 0;
 }
