@@ -17,3 +17,4 @@ O programa permite cadastrar informações básicas de um aluno, como nome, idad
 
 ## Como executar o programa
 O programa pode ser executado utilizando um compilador da linguagem C, como o GCC. Basta compilar o arquivo main.c e executar o programa.
+Atividade 1: implementação do sistema de cadastro de alunos.
