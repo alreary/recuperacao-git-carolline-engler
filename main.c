@@ -21,5 +21,7 @@ int main() {
     printf("Idade: %d anos\n", idade);
     printf("Nota: %.2f\n", nota);
 
+    printf("Cadastro realizado com sucesso!\n");
+    
     return 0;
 }
